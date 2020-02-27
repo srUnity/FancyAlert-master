@@ -1,0 +1,3 @@
+rootProject.name='FancyAlert-master'
+include ':app'
+include ':fancyalertboxlib'
